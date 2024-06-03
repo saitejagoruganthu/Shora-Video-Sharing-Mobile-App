@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Shora - Video Sharing App</h3>
+  <h1 align="center">Shora - Video Sharing App</h1>
 </div>
 
 ## <a name="introduction">🤖 Introduction</a>
